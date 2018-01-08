@@ -1,0 +1,9 @@
+
+GObject TEmplate Generator (GOTEG) was written to help me with writing templates for new classes 
+using object-oriented model provided by the glib library. There are many possible approaches to do 
+this. Documentation of glib provides good explanation how to do this, but some moments were found 
+to be unclear to me. Also, I don't like to type a lot every time when I create a new object. I hope, 
+this script will be useful for other people too. All templates were written inside the script. 
+
+Enjoy!
+
